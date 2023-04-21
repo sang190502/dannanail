@@ -1,14 +1,19 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    {
+    "id": 1,
+    "title": "Lenovo V15 G2 15.6 inch Laptop",
+    "description": "Lenovo V15 G2 15.6 Laptop Computer - Black; Intel Core i5 11th Gen 1135G7 2.4GHz Processor; 16GB DDR4-3200 RAM; 1TB Solid State Drive; Intel Iris Xe Graphics",
+    "img": "https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0660281_515403.jpg",
+    "category": "laptop",
+    "brand": "lenovo",
+    "price": "500 $",
+    "rating": "4.8/5"
+  },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
-    "name": "typicode"
+    "name": "dannanail"
   }
 }
